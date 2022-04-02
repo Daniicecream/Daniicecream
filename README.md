@@ -24,6 +24,7 @@
           <li>Django</li>
           <li>Java</li>
           <li>C / C++</li>
+          <li>SQL</li>
         </ul>
       </div>
     </main>    
