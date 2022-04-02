@@ -1,3 +1,9 @@
+<style>
+	.title {
+		color: #4984CE;
+	}
+</style>
+
 <html>
   <head></head>
   <body>
@@ -16,12 +22,6 @@
     </main>    
   </body>
 </hmtl>
-
-<style>
-	.title {
-		color: #4984CE;
-	}
-</style>
 
 <script>
 </script>
