@@ -1,15 +1,10 @@
 
 
 <html>
-	<style>
-		.title {
-			color: #4984CE;
-		}
-	</style>
   <head></head>
   <body>
     <main>
-      <h1 class="title"> Welcome to my GitHub </h1>
+      <h1 style="color: #4984CE;"> Welcome to my GitHub </h1>
       <div>
         <ul>
           <li>👋 Hi, I’m @Daniicecream</li>
