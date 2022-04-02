@@ -1,10 +1,11 @@
-<style>
-	.title {
-		color: #4984CE;
-	}
-</style>
+
 
 <html>
+	<style>
+		.title {
+			color: #4984CE;
+		}
+	</style>
   <head></head>
   <body>
     <main>
