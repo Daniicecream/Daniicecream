@@ -1,21 +1,30 @@
 <html>
   <head></head>
   <body>
-    <div>
-      <h1> Hola Mundo </h1>
-    </div>
-    <div>
-      <ul>
-        <li>👋 Hi, I’m @Daniicecream</li>
-        <li>👀 I’m interested in web development, specially Front-end (because since I was a kid I've been drawing/designing/editing different kind of      audiovisual stuff)</li>
-        <li>Anyways, I'd like to become a Full Stack Web Developer</li>
-        <li>🌱 I’m currently learning Liquid (Shopify's open-source theme language)</li>
-        <li>💞️ I’m looking to collaborate on websites development</li>
-        <li>📫 How to reach me? A: throught my personal email daniel.vasquezrs@gmail.com </li>
-      </ul>
-    </div>
+    <main>
+      <h1 class="title"> Welcome to my GitHub </h1>
+      <div>
+        <ul>
+          <li>👋 Hi, I’m @Daniicecream</li>
+          <li>👀 I’m interested in web development, specially Front-end (because since I was a kid I've been drawing/designing/editing different kind of                        audiovisual stuff)</li>
+          <li>Anyways, I'd like to become a Full Stack Web Developer</li>
+          <li>🌱 I’m currently learning Liquid (Shopify's open-source theme language)</li>
+          <li>💞️ I’m looking to collaborate on websites development</li>
+          <li>📫 How to reach me? A: throught my personal email daniel.vasquezrs@gmail.com </li>
+        </ul>
+      </div>
+    </main>    
   </body>
 </hmtl>
+
+<style>
+	.title {
+		color: #4984CE;
+	}
+</style>
+
+<script>
+</script>
 
 <!---
 Daniicecream/Daniicecream is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
