@@ -9,7 +9,9 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniicecream&label=Profile%20views&color=0e75b6&style=flat" alt="daniicecream" /> </p> -->
 
 <!-- Trophies 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniicecream" alt="daniicecream" /></a> </p> -->
+<p align="left"> 
+        <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniicecream"                            alt="daniicecream" /></a> 
+</p> -->
 
 <h1> Hi I'm Daniel Vásquez <br /> ¡Welcome to my GitHub! </h1>
 
@@ -25,8 +27,15 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/daniel-vasquez-r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-vasquez-r" height="30" width="40" /></a>
+        <a href="https://linkedin.com/in/daniel-vasquez-r" target="blank">
+                <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-                   in-alt.svg" alt="daniel-vasquez-r" height="30" width="40" />
+        </a>
 </p>
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="daniel-vasquez-r" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://cl.linkedin.com/in/daniel-vasquez-r?trk=profile-badge">Daniel Vásquez Robles</a></div>
+              
 
 ---
 
