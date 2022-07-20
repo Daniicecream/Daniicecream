@@ -23,12 +23,7 @@ You can click the Preview link to take a look at your changes.
         </ul>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"><a href="https://linkedin.com/in/daniel-vasquez-r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-vasquez-r" height="30" width="40" /></a></p>
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="daniel-vasquez-r" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://cl.linkedin.com/in/daniel-vasquez-r?trk=profile-badge">Daniel Vásquez Robles</a></div>
-              
+<p align="left"><a href="https://linkedin.com/in/daniel-vasquez-r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-vasquez-r" height="30" width="40" /></a></p>              
 
 ---
 
