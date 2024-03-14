@@ -23,11 +23,13 @@ You can click the Preview link to take a look at your changes.
           <li>📫 How to reach me? A: throught my personal email daniel.vasquezrs@gmail.com or LinkedIn PM</li>
         </ul>
 
+<!--
 <h3>Other projects:</h3> 
 <ul>
         <li>https://p00-davr-inmobiliaria.netlify.app</li>
         <li>https://p02-davr-dvfyi.netlify.app</li>
 </ul>
+-->
 
 <!-- Skills Section -->
 <h3 align="left">Languages and Tools:</h3>
