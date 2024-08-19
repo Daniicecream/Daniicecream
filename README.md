@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
           <li>💡 Learning everyday a bit more about my profession.</li>   
           <li>❓ I do not refuse to learn new technologies related to my carreer, I love my profession and I am very curious about different areas.</li>
           <li>🌱 I’m currently looking for a job.</li>
-          <li>📫 How to reach me? A: throught my personal email <a href="mailto:daniel.vasquezrs@gmail.com">daniel.vasquezrs@gmail.com</a> or LinkedIn PM</li>
+          <li>📫 How to reach me? A: throught my personal email <a href="mailto:daniel.vasquezrs@gmail.com" target="_blank">daniel.vasquezrs@gmail.com</a> or LinkedIn PM</li>
         </ul>
 
 <!--
@@ -48,8 +48,8 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/daniel-vasquez-r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn icon" height="30" width="40"/></a>
-<a href="mailto:daniel.vasquezrs@gmail.com" target="blank"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r5.png" alt="Gmail icon" height="30"/></a>
+<a href="https://linkedin.com/in/daniel-vasquez-r" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn icon" height="30" width="40"/></a>
+<a href="mailto:daniel.vasquezrs@gmail.com" target="_blank"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r5.png" alt="Gmail icon" height="30"/></a>
 </p>              
 
 <!-- Stats Blocks 
