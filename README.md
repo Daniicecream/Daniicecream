@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
           <li>👀 Passionate about web development, data analysis, web scrapping and data bases.</li>
           <li>💡 Learning everyday a bit more about my profession.</li>   
           <li>❓ I do not refuse to learn new technologies related to my carreer, I love my profession and I am very curious about different areas.</li>
-          <li>🌱 I’m currently looking for a job.</li>
+          <li>🌱 I’m currently working as a freelancer but still open to hear job offers.</li>
           <li>📫 How to reach me? A: throught my personal email <a href="mailto:daniel.vasquezrs@gmail.com" target="_blank">daniel.vasquezrs@gmail.com</a> or LinkedIn PM</li>
         </ul>
 
