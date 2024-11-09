@@ -1,15 +1,12 @@
-<!-- Typing Animation -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=50&lines=Web+Scrapping,;Web+Development,;Data+Analysis,;Active+Learner/Researcher,"></a>
-</p>
-
 <h1 align="center">
 Hi I'm Daniel Vásquez <br> ¡Welcome to my GitHub!
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&duration=3000&pause=500&color=57F709&center=true&vCenter=true&width=600&lines=Web+Scrapping%2C;Web+Development%2C;Data+Analysis%2C;Data+Bases%2C;Active+Learner%2FResearcher%2C" alt="Typing SVG" /></a>
 </h1>
 
-<!-- About Me -->
-## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 60>
-## About me <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3cxcjc5M2gzemZydnJxc2VpMjhkb2NvNG85cHllZjQ3czRtajc0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MRi1TxUTqiWWFNKZ88/giphy.gif" width=60>
+<!-- About Me ## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 60>
+-->
+## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3cxcjc5M2gzemZydnJxc2VpMjhkb2NvNG85cHllZjQ3czRtajc0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MRi1TxUTqiWWFNKZ88/giphy.gif" width=60><b> About me</b>
 <ul>
   <li>👀 Passionate about web development, data analysis, web scrapping and data bases.</li>
   <li>💡 Learning everyday a bit more about my profession.</li>   
